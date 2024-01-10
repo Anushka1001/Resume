@@ -1,0 +1,39 @@
+{
+  "col1": {
+    "firstname": "Anushka",
+    "lastname": "Bajpai",
+    "Role": "Web Developer",
+    "email": "anushka.bajpai1006@gmail.com"
+  },
+  "col2": {
+    "intro": {
+      "heading": "Hello! I'm",
+      "desc": "A dynamic software developer with 1.8 years of experience developing and maintaining web applications."
+    }
+  },
+  "about": {
+    "headDetails": "Hey there! I'm a seasoned developer specializing in",
+    "techDetails": " React.js, Redux, Jest, JavaScript, Bootstrap, Flask, and Python,",
+    "headDetails2": " focusing on crafting robust and user-friendly applications.",
+    "mainDetails": "With proficiency in front-end and back-end technologies, I ensure seamless integration for optimal user experiences. My commitment to continuous learning extends to Federated Learning, machine learning, and data science, keeping me at the forefront of technological advancements. Outside of coding, my passions include exploring space-related topics and unwinding with music and gaming.\nLet's create exceptional solutions together!"
+  },
+  "experiencePage": {
+    "coverLetter": "In the ever-evolving landscape of software development, I stand out as a dynamic and adept developer with a solid foundation in an expanse of technologies. My proficiency encompasses React.js, JavaScript, Redux, Flask, Python, Bootstrap, and testing libraries, forming the toolkit with which I shape innovative and efficient solutions.\n\nWith a trailblazing journey spanning around Two years of hands-on experience, complemented by two internships and a year of dedicated involvement in live projects, I have honed my skills to create impactful EdTech applications. My academic background further attests to my commitment to excellence, having graduated with a CGPA of 8.5, securing the top position in my college.\n\nDriven by an insatiable curiosity, I am inherently drawn to learning new technologies, constantly seeking to expand my knowledge base. This innate passion and proven track makes me a valuable asset in software and web development.\n\nI bring technical prowess but a relentless commitment to pushing boundaries and delivering solutions that transcend expectations. I am eager to add my unique blend of skills and dedication to a role where innovation thrives.",
+    "experience": {
+      "In February 2022, I joined Magic Ed Tech as an intern and transitioned to a full-time role as an Associate Software Engineer in June. I've been involved in diverse EdTech projects, specializing in creating a robust multilevel authoring tool. Leveraging various technologies and libraries, I implemented working slates and indexing tools, contributing to the organization's technological advancements.": "2022",
+      "I joined Satiate Technologies as a web developer intern.  I gained valuable experience by actively contributing to multiple projects and assuming a leadership role in managing a small project team.": "2021",
+      "I pursued Computer Science at Inderpratha Engineering College. Engaged in Entrepreneurship and Innovation Cell, serving as IIC Ambassador since 2020, showcasing leadership and dedication.": "2018"
+    }
+  },
+  "skill1": {
+    "React.JS": "80%",
+    "Redux": "75%",
+    "Python": "65%",
+    "Flask": "70%"
+  },
+  "skill2": {
+    "JavaScript": "65%",
+    "Jest": "75%",
+    "CSS": "80%"
+  }
+}
