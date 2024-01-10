@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+
+/* font */
+.poppins {
+    font-family: "Poppins", sans-serif;
+}
+
+.comfortaa {
+    font-family: 'Comfortaa', cursive;
+}
+
+.mont {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.justify {
+    text-align: justify;
+    word-wrap: break-word;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+/* background shades */
+.bgBlack {
+    background-color: #09090e;
+}
+
+.bgDark {
+    background-color: #000205;
+}
+
+.bgMetal {
+    background-color: #3a3e44;
+}
+
+/* font shades */
+.raisinBlack {
+    color: #09090e;
+}
+
+.smoke {
+    color: #d7eeea;
+}
+
+.darkGray {
+    color: #424242;
+}
+
+.lightGray {
+    color: #7e7e7e;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+/* try blue */
+
+.verdigris {
+    color: #2879af;
+}
+
+.royalBlue {
+    color: #184274;
+}
+
+.dBlue {
+    color: #015da8;
+}
+
+.lblue {
+    color: #C4DFDF;
+}
+
+.azure {
+    color: #E3F4F4;
+}
+
+/* padding */
+
+.pdright0 {
+    padding-right: 0;
+}
+
+.pdleft0 {
+    padding-left: 0;
+}
+
+.mirror {
+    color: #ffffff0c;
+    font-size: 4.5em;
+    text-align: center;
+    margin-top: -0.95em;
+    font-weight: 900;
+    z-index: -1;
+    user-select: none;
+    text-transform: uppercase;
+}
+
+.userSelect {
+    user-select: none;
+}
