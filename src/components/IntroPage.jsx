@@ -33,7 +33,7 @@ function IntroPage() {
               >
                 Github
               </a>
-              <a href="pdf/resume_Anushka.pdf" download="resume_Anushka">
+              <a href="pdf/AnushkaBajpai.pdf" download="resume_AnushkaBajpai">
                 Resume
               </a>
             </div>
