@@ -24,7 +24,7 @@ function AboutSec() {
             </div>
             <div className="button-about">
               <a
-                href={"pdf/resume_Anushka.pdf"}
+                href={"pdf/AnushkaBajpai.pdf"}
                 download="AnushkaBajpai_resume"
                 target="_blank"
                 rel="noreferrer"
