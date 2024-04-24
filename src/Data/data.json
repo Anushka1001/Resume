@@ -20,6 +20,7 @@
   "experiencePage": {
     "coverLetter": "In the ever-evolving landscape of software development, I stand out as a dynamic and adept developer with a solid foundation in an expanse of technologies. My proficiency encompasses React.js, JavaScript, Redux, Flask, Python, Bootstrap, and testing libraries, forming the toolkit with which I shape innovative and efficient solutions.\n\nWith a trailblazing journey spanning around Two years of hands-on experience, complemented by two internships and a year of dedicated involvement in live projects, I have honed my skills to create impactful EdTech applications. My academic background further attests to my commitment to excellence, having graduated with a CGPA of 8.5, securing the top position in my college.\n\nDriven by an insatiable curiosity, I am inherently drawn to learning new technologies, constantly seeking to expand my knowledge base. This innate passion and proven track makes me a valuable asset in software and web development.\n\nI bring technical prowess but a relentless commitment to pushing boundaries and delivering solutions that transcend expectations. I am eager to add my unique blend of skills and dedication to a role where innovation thrives.",
     "experience": {
+      "Currently, I'm a member of product development team at Marketwicks. Working with Angular and related libraries, I've hepled in creating Fin-Tech solutions for US based customers": "2023",
       "In February 2022, I joined Magic Ed Tech as an intern and transitioned to a full-time role as an Associate Software Engineer in June. I've been involved in diverse EdTech projects, specializing in creating a robust multilevel authoring tool. Leveraging various technologies and libraries, I implemented working slates and indexing tools, contributing to the organization's technological advancements.": "2022",
       "I joined Satiate Technologies as a web developer intern.  I gained valuable experience by actively contributing to multiple projects and assuming a leadership role in managing a small project team.": "2021",
       "I pursued Computer Science at Inderpratha Engineering College. Engaged in Entrepreneurship and Innovation Cell, serving as IIC Ambassador since 2020, showcasing leadership and dedication.": "2018"
@@ -32,6 +33,7 @@
     "Flask": "70%"
   },
   "skill2": {
+    "Angular": "65%",
     "JavaScript": "65%",
     "Jest": "75%",
     "CSS": "80%"

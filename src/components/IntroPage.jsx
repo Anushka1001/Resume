@@ -36,6 +36,13 @@ function IntroPage() {
               <a href="pdf/AnushkaBajpai.pdf" download="resume_AnushkaBajpai">
                 Resume
               </a>
+              <a
+                href="https://drive.google.com/drive/folders/1wEM1HfoKpiMy_rPRo9Wyh8hD5OW3AoE8?usp=drive_link"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Certificates
+              </a>
             </div>
           </div>
           <div className="col-xl-5 intro_image">
