@@ -18,7 +18,6 @@ function IntroPage() {
                 </div>
                 <p className="introH5 dBlue max-width-styled">{Intro.desc}</p>
                 <div className="links poppins row my-2 mx-0">
-                  <div className="col-sm-12">
                     <a
                       href="https://www.linkedin.com/in/anushkabajpai1006/"
                       target="_blank"
@@ -33,8 +32,6 @@ function IntroPage() {
                     >
                       Github
                     </a>
-                  </div>
-                  <div className="col-sm-12">
                     <a href="pdf/AnushkaBajpai.pdf" download="resume_AnushkaBajpai">
                       Resume
                     </a>
@@ -45,7 +42,6 @@ function IntroPage() {
                     >
                       Certificates
                     </a>
-                  </div>
                 </div>
             </div>
             <div className="col-xxl-5 col-xl-5 intro_image userSelect">
