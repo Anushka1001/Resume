@@ -4,10 +4,6 @@
     display: none;
 }
 
-.width-fit-content {
-    width: fit-content;
-}
-
 .displaySetting1 {
     display: flex;
     flex-direction: row;
@@ -16,12 +12,11 @@
 
 .displaySetting2 {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     height: 100vh;
     overflow-y: scroll;
     scroll-behavior: smooth;
     background-color: #fcf4d3;
-    padding: 0;
 }
 
 .displaySetting3 {
@@ -37,13 +32,6 @@
 @media screen and (max-width: 991px) {
     .displaySetting1 {
         display: none;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .displaySetting2 {
-        height: auto !important;
-        padding-bottom: 5em;
     }
 }
 
@@ -91,14 +79,15 @@
 /* row-2 movable screen 1*/
 
 .intro_image {
-    background-image: url('../public/images/bluecol.png');
-    background-repeat: no-repeat;
-    background-size: cover;
+    height: 100vh;
+    justify-items: end;
+    pointer-events: none;
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 1200px) {
     .intro_image {
         display: none;
+        height: auto;
     }
 }
 
@@ -163,26 +152,6 @@
 .links a:hover {
     color: #5a5a5a;
     text-decoration: underline;
-}
-
-@media screen and (max-width: 530px) {
-    .introH2 {
-        font-size: 60px;
-        width: fit-content;
-        margin: 5vh 0 20px 40px;
-    }
-    .introH4 {
-        margin: 20vh 0 3px 40px;
-        width: fit-content;
-    }
-    .introH5 {
-        margin: 8vh 0 10px 40px;
-        width: fit-content;
-        max-width: 20em;
-    }
-    .displaySetting2 {
-        width: fit-content;
-    }
 }
 
 /* ------------------------------------------------------------------------- */
