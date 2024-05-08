@@ -8,14 +8,14 @@ import Contact from "./Contact";
 
 function Home() {
   return (
-    <div>
+    <>
       <IntroPage />
       <AboutSec />
       <ExpCoverLetter />
       <Skills />
       <Projects />
       <Contact />
-    </div>
+    </>
   );
 }
 
