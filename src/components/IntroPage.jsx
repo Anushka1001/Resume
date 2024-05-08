@@ -17,7 +17,7 @@ function IntroPage() {
                   {Name.lastname}
                 </div>
                 <p className="introH5 dBlue max-width-styled">{Intro.desc}</p>
-                <div className="links poppins row my-2 mx-0">
+                <div className="links poppins my-2 mx-0">
                     <a
                       href="https://www.linkedin.com/in/anushkabajpai1006/"
                       target="_blank"
